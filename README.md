@@ -1,5 +1,9 @@
 # Muhammad Burhanudin
-**Software Engineer · Mobile & Full-Stack Systems**
+### Full-Stack Developer
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=38BDF8&width=550&lines=Engineering+End-to-End+Web+%26+Mobile+Architectures;Crafting+Scalable+Backends+%26+High-Performance+Frontends;Payment+Workflows+%7C+Cloud+Infrastructure+%7C+REST+APIs" alt="Typing SVG" />
+</p>
 
 [Email](mailto:mburhanudin149@gmail.com) &nbsp;|&nbsp; [GitHub Profile](https://github.com/Hanywalll)
 
@@ -7,16 +11,16 @@
 
 ### Overview
 
-Software Engineer with practical experience in engineering end-to-end mobile applications, RESTful backend services, and web infrastructure. Core focus on building reliable architectures, clean component modularity, payment gateway lifecycles, and self-hosted cloud environments.
+Full-Stack Developer focused on engineering resilient, end-to-end web applications, robust API backends, and responsive mobile systems. Experienced in designing scalable system architectures, integrating mission-critical third-party services, and deploying cloud infrastructures with performance and clean code standards.
 
 ---
 
 ### Core Specializations
 
-- **Mobile Engineering**: Cross-platform application development using **Flutter & Dart**, focusing on responsive UI architectures, predictable state management, and optimized native platform bridges.
-- **Backend Architecture & APIs**: Designing resilient RESTful endpoints and micro-architectures with **Node.js / Express**, **Go**, and **Laravel**, paired with robust authentication (JWT/OAuth) and role-based access control (RBAC).
-- **Payment & Third-Party Integrations**: Implementation of automated transaction lifecycles, virtual accounts, QRIS, and webhook event-handling systems (e.g., **Midtrans Payment Gateway**).
-- **System Administration & Cloud**: Linux VPS environment provisioning (Ubuntu/Debian), **Nginx** reverse proxying, SSL/TLS management, and MySQL database optimization.
+- **Frontend & Mobile Systems**: Building responsive, intuitive interfaces with **React.js**, **Tailwind CSS**, and modern web tooling, alongside cross-platform mobile apps using **Flutter & Dart**.
+- **Backend & Distributed APIs**: Engineering secure, high-throughput RESTful services using **Node.js / Express**, **Laravel**, and **Go**, featuring enterprise-grade authentication (JWT, OAuth) and role-based access control.
+- **Transactional & Payment Gateways**: Designing robust, webhook-driven transaction workflows, automated invoicing, and digital payment lifecycles (**Midtrans Payment Gateway**).
+- **Database & Cloud Deployment**: Database design, normalization, and query optimization on **MySQL**; self-hosted Linux VPS environments (Ubuntu), **Nginx** reverse proxies, and automated deployment pipelines.
 
 ---
 
@@ -24,20 +28,21 @@ Software Engineer with practical experience in engineering end-to-end mobile app
 
 | Domain | Technologies & Tooling |
 | :--- | :--- |
-| **Languages** | Dart, TypeScript, JavaScript, PHP, Go, SQL |
-| **Mobile & Frontend** | Flutter, React.js, Tailwind CSS, Blade |
-| **Backend & Runtime** | Node.js, Express.js, Laravel, Go HTTP, REST APIs |
-| **Databases** | MySQL, Relational Schema Design, Database Indexing |
-| **Infrastructure & DevOps** | Linux (Ubuntu/Debian), Nginx, Git, PM2, Docker, VPS Deployment |
-| **Security & Standards** | JWT Authentication, Webhooks, API Security, SSL/TLS Encryption |
+| **Languages** | TypeScript, JavaScript, PHP, Dart, Go, SQL, HTML/CSS |
+| **Frontend Frameworks** | React.js, Tailwind CSS, Blade, Modern CSS3 |
+| **Mobile Development** | Flutter, Dart (Cross-Platform iOS & Android) |
+| **Backend & Runtime** | Node.js, Express.js, Laravel, Go HTTP, RESTful APIs |
+| **Databases & Cache** | MySQL, Relational Schema Architecture, Indexing |
+| **Infrastructure & DevOps** | Linux VPS (Ubuntu/Debian), Nginx, Git, PM2, Docker |
+| **Security & Integration** | Midtrans Gateway, Webhooks, JWT Auth, SSL/TLS Encryption |
 
 ---
 
 ### Engineering Principles
 
-- **Maintainability First**: Writing clean, self-documenting code with clear domain boundaries.
-- **Resilient Integrations**: Ensuring transactional integrity and error-recovery in asynchronous services.
-- **Performance & Security**: Minimalist resource footprints, optimized query execution, and secure data handling.
+- **End-to-End Reliability**: Seamless integration between user interface states, backend APIs, and database consistency.
+- **Clean Modularity**: Loose coupling, self-documenting code, and scalable project structures.
+- **Performance & Security**: Minimalist resource footprints, fast query execution, and defense-in-depth security practices.
 
 ---
 
